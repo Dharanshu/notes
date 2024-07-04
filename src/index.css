@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: sans-serif;
+  background-image: url('wall.jpg') ;
+    background-repeat: no-repeat;
+    background-size: inherit;
+}
+
+body {
+  margin: 0;
+}
